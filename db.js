@@ -6,7 +6,7 @@ const connection = mysql.createConnection({
   host: '34.101.132.147',    
   user: 'travetips',          
   password: 'travetips',  
-  database: 'auth_db'   
+  database: 'tiptips'   
 });
 
 // Terhubung ke database
